@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.tabs.defaultColor": null,
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.workingDirectories": [
+        "./bramhan-web"
+    ]
+}
